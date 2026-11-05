@@ -1,0 +1,2 @@
+constructor doesnot return anything
+nothing but instance of a class
